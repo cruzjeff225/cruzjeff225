@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Jefferson Cruz</h1>
 <h3 align="center">Soy un apasionado estudiante en desarrollo web y de software.</h3>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, C#**
+- 📷 Regularmente tomo fotografías: [vsco.co/cruzjeff225](vsco.co/cruzjeff225)
 
-- 📫 How to reach me **cruzjeff225@gmail.com**
+- 💬 Puedes preguntarme sobre: **HTML, CSS, Bootstrap, JavaScript, C#**
+
+- 📫 Contáctame: **cruzjeff225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
