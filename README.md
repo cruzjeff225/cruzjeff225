@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Jefferson Cruz</h1>
+<h1 align="center">Hola 👋, Me llamo Jefferson Nathanael Cruz</h1>
 <h3 align="center">Soy un apasionado estudiante en desarrollo web y de software.</h3>
 
 - 📷 Regularmente tomo fotografías: [(https://vsco.co/cruzjeff225)](vsco.co/cruzjeff225)
